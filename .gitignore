@@ -6,6 +6,7 @@
 .factorypath
 **/*.iml
 **/pom.xml.versionsBackup
+**/.flattened-pom.xml
 **/.develocity/**
 
 # Build
